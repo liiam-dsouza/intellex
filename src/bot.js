@@ -22,3 +22,5 @@ for (const folder of functionFolders) {
 client.handleEvents()
 client.handleCommands()
 client.login(DISCORD_TOKEN)
+
+//test commit
